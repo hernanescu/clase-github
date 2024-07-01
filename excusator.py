@@ -1,7 +1,6 @@
 import random
 
-def generar_excusa():
-    excusas = [
+excusas = [
         "mi perro meó en el router.",
         "me distraje investigando sobre el movimiento obrero en los 70.",
         "mi gato tiró mi notebook del escritorio.",
@@ -10,6 +9,8 @@ def generar_excusa():
         "todo es una construcción social, incluso hacer un commit.",
         "Fibertel es una porquería."
     ]
+
+def generar_excusa():
     return random.choice(excusas)
 
 if __name__ == "__main__":
