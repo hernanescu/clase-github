@@ -7,7 +7,9 @@ excusas = [
         "creo que me agarré Covid.",
         "me quedé hasta las 3 AM puteándome con gente en Twitter.",
         "todo es una construcción social, incluso hacer un commit.",
-        "Fibertel es una porquería."
+        "Fibertel es una porquería.",
+        "el tarot me dijo que esta no es una buena semana para eso.",
+        "colgué mirando videos de la Scaloneta."
     ]
 
 def generar_excusa():
